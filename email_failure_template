@@ -1,0 +1,18 @@
+Subject: 🔻 Alert: {customer_name} Nextcloud Backup Failed - Immediate Attention Required
+
+Hello Team,
+
+⚠️ Unfortunately, the Nextcloud backup for {customer_name} encountered an issue and did not complete successfully. Please review the following details and take the necessary actions.
+
+🚨 **Date of Attempted Backup:** {date}
+❌ **Last Successful Step:** {step}
+📁 **Backup Directory:** {backup_dir}
+
+For a swift resolution, please:
+1. **Review the log files** in the backup directory for additional error information.
+2. **Consult the team** if the issue persists or escalates.
+
+Prompt attention is appreciated to ensure data safety and continuity.
+
+Thank you,  
+**{customer_name} Backup System**

@@ -1,0 +1,18 @@
+Subject: 🔹 Success: {customer_name} Nextcloud Backup Completed - [Backup Summary]
+
+Hello Team,
+
+🎉 Great news! The scheduled Nextcloud backup for {customer_name} has completed successfully.
+
+Here’s a quick summary of the backup details:
+
+🗓 **Date of Backup:** {date}
+📁 **Backup Directory:** {backup_dir}
+✅ **Database Backup:** Successful
+✅ **Web UI Backup:** Successful
+✅ **Data Backup:** Successful
+
+You can rest assured that all critical data is safely backed up and stored as per the protocol. Please review the logs if needed, or feel free to reach out for any clarifications.
+
+Best Regards,  
+**{customer_name} Backup System**
